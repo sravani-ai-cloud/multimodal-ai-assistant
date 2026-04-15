@@ -45,7 +45,4 @@ It showcases practical GenAI application development beyond basic chatbot implem
 - Add real voice input/output (Speech-to-Text & TTS)
 - Upgrade to advanced models (Llama3, Mistral)
 
-# Author
-Sravani Koriginja
-- LinkedIn: https://www.linkedin.com/in/sravani-koriginja
-- GitHub: https://github.com/sravani-ai-cloud
+
